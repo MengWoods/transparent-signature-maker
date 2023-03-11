@@ -3,7 +3,6 @@ import utils.constant as ct
 import os
 import cv2
 import numpy as np
-import imageio
 from PIL import Image, ImageDraw
 
 class imgUtils:

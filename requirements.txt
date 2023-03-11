@@ -1,0 +1,4 @@
+ConfigArgParse==1.5.3
+opencv-python==4.7.0.68
+numpy==1.21.6
+Pillow==9.4.0
